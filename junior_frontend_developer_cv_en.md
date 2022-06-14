@@ -42,7 +42,7 @@ Below is a brief description of the skills. Ready to discuss technologies in mor
 
 
 ### English
-A2, Elementary or pre-intermediate. I read technical documentation, using Google Translate from time to time.
+Elementary or pre-intermediate. I read technical documentation and books, using Google Translate from time to time.
 
 ## Portfolio links
 - https://nibeon.github.io/portfolio-verstka/

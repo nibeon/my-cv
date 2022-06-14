@@ -1,5 +1,5 @@
 # Poteryaiko Vasya
-## Junior frontend developer
+## Junior game developer
 
 I am interested in the development of indie games, I would like to apply my ideas, knowledge, skills in practice.
 
@@ -40,7 +40,7 @@ The main skills are listed below. I am ready to discuss the necessary technologi
 - arcades, platformers, runners
 
 ### English
-A2, Elementary or pre-intermediate. Читаю техническую документацию и книги по программированию с периодическим использованием Google Translate.
+Elementary or pre-intermediate. I read technical documentation and books, using Google Translate from time to time.
 
 ## Мои игры на itch.io
 - https://nibeon.itch.io
@@ -60,7 +60,7 @@ A2, Elementary or pre-intermediate. Читаю техническую докум
 
 ### Web-developing
 
-In addition to game development, I'm also interested in web development (mainly Wordpress, static site generators, js / jQuery).
+I'm also interested in web development (mainly Wordpress, static site generators, js / jQuery).
 
 ### others computer interests
 
