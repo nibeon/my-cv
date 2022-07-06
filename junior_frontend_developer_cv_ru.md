@@ -19,7 +19,7 @@ Ready to take a test task to demonstrate the level of skills.
 - могу использовать некоторые шаблонизаторы (например, pug/jade, mustache or EJS).
 
 ### CSS
-- Предпочитаю использовать фреймворк PureCSS, но могу также использовать Bootstrap;
+- Предпочитаю использовать фреймворки PureCSS и SpectreCSS, но знаю и Bootstrap;
 - знаю основы препроцессора LESS (но пока предпочитаю писать на CSS);
 - могу использовать flexbox.
 
@@ -27,11 +27,11 @@ Ready to take a test task to demonstrate the level of skills.
 - знаю базовые структуры данных JS;
 - могу работать с асинхронными функциями;
 - могу использовать фичи из ECMAScript 2015+;
-- из библиотек и фреймворков могу использовать jQuery и Vue.
+- из библиотек и фреймворков использую jQuery, иногда Vue.
 
 ### Wordpress
 - использую некоторые конструкторы страниц, такие как: PageBuilder by SiteOrigin и Bold Builder, но могу использовать и Elementor;
-- I can creating and editing child themes.
+- могу работать с дочерними темами вордпресс.
 
 ### Tools
 - Windows 10 and Linux
@@ -46,7 +46,7 @@ A2, Elementary or pre-intermediate. Читаю техническую докум
 ## Portfolio links
 - https://nibeon.github.io/portfolio-verstka/
 - http://f98032zf.beget.tech
-- http://f0660930.xsph.rusp
+- http://f0660930.xsph.ru
 
 ## Education
 

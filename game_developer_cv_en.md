@@ -15,7 +15,7 @@ The main skills are listed below. I am ready to discuss the necessary technologi
 ### Main game engines at the moment
 - now learning Unity3D (using 2017.4)
 - Godot (also interesting it)
-- RPG Maker VX/Ace (also I can using RPG Maker MV)
+- RPG Maker (VX/Ace and MV)
 - GDevelop (free alternative to Construct 2, for prototyping and mini games)
 
 ### Various languages, engines and game libs, what interesting
@@ -42,7 +42,7 @@ The main skills are listed below. I am ready to discuss the necessary technologi
 ### English
 Elementary or pre-intermediate. I read technical documentation and books, using Google Translate from time to time.
 
-## Мои игры на itch.io
+## My games on itch.io
 - https://nibeon.itch.io
 
 ## Education
@@ -65,7 +65,7 @@ I'm also interested in web development (mainly Wordpress, static site generators
 ### others computer interests
 
 - Linux
-- no-mainstream and functional programming languages (dialects of Lisp, dialects of Basic, D, Nim, Elixir, etc.) 
+- no-mainstream and functional programming languages (dialects of Lisp, dialects of Basic, FreePascal, D, Nim, Elixir, etc.) 
 - creating fractal graphics
 
 

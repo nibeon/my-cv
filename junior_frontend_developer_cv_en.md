@@ -19,7 +19,7 @@ Below is a brief description of the skills. Ready to discuss technologies in mor
 - i can using some html template engines such as pug/jade, mustache or EJS.
 
 ### CSS
-- I prefer to use PureCSS framework but can use Bootstrap too;
+- I prefer to use PureCSS or SpectreCSS but can use Bootstrap too;
 - I know basic of LESS preprocessor;
 - I can using flexbox.
 
@@ -47,7 +47,7 @@ Elementary or pre-intermediate. I read technical documentation and books, using 
 ## Portfolio links
 - https://nibeon.github.io/portfolio-verstka/
 - http://f98032zf.beget.tech
-- http://f0660930.xsph.rusp
+- http://f0660930.xsph.ru
 
 ## Education
 
